@@ -98,9 +98,3 @@ Computer Science, Batangas State University - TNEU Alangilan
 
 </div>
 ---
-
-<div align="center">
-
-Computer Science, Batangas State University - TNEU Alangilan
-
-</div>
