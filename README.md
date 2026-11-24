@@ -2,8 +2,7 @@
 
 # Floyd Manalo
 
-First-year Computer Science student at Batangas State University, TNEU - Alangilan.
-Exploring geospatial technology and satellite data, and learning machine learning in public.
+First-year Computer Science student at Batangas State University – TNEU, Alangilan. Exploring geospatial technology, satellite data, and machine learning.
 
 <a href="https://ph.linkedin.com/in/floyd-manalo-6b8a9443a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://web.facebook.com/floyd.manalo.31"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -57,8 +56,8 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 ## Achievements and Training
 
-- Completed **PhilSA SBIC 2026**
-- Attended **DICT SPARK Training: Data Analytics and Visualization** (mentored workshops)
+- Completed **PhilSA Space Business Innovation Camp 2026**
+- Attended **DICT SPARK Training: Data Analytics and Visualization**
 
 ---
 
