@@ -61,6 +61,21 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 ---
 
+## Streak and Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FloydManalo&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FloydManalo/FloydManalo/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/FloydManalo/FloydManalo/output/github-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## GitHub Stats
 
 <details>
@@ -75,6 +90,13 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 </details>
 
+---
+
+<div align="center">
+
+Computer Science, Batangas State University - TNEU Alangilan
+
+</div>
 ---
 
 <div align="center">
