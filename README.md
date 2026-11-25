@@ -3,7 +3,7 @@
 
 # Floyd Manalo
 
-First-year Computer Science student at Batangas State University – TNEU, Alangilan. Exploring geospatial technology, satellite data, and machine learning.
+First-year Computer Science student at Batangas State University – TNEU, Alangilan.
 
 <a href="https://ph.linkedin.com/in/floyd-manalo-6b8a9443a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://web.facebook.com/floyd.manalo.31"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -18,16 +18,7 @@ First-year Computer Science student at Batangas State University – TNEU, Alang
 ## About Me
 ---
 
-I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I'm interested in how satellite data and geospatial tools can help solve real problems in the Philippines, like tracking environmental hazards. I'm building my foundations in data analysis and machine learning, and I share what I learn along the way.
-
-## Currently
----
-
-| Focus | Details |
-|-------|---------|
-| Building | VogGuard PH, a Taal vog early-warning prototype (in progress) |
-| Learning | Data analysis, machine learning, PyTorch |
-| Exploring | Geospatial technology and satellite data |
+I'm a Computer Science student who enjoys exploring opportunities to grow beyond the classroom. I develop my skills through workshops and hands-on activities, explore new technologies through webinars, and connect with fellow learners and professionals through networking events and tech communities. I'm always looking for opportunities to learn, collaborate, and apply what I discover to meaningful projects.
 
 ## Tech Stack
 ---
@@ -47,9 +38,6 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-Data Analysis, Machine Learning, and Data Visualization
-
-
 ## Projects
 ---
 
@@ -62,9 +50,20 @@ Data Analysis, Machine Learning, and Data Visualization
 ---
 
 - **PhilSA Space Business Innovation Camp (SBIC) 2026**
-  - Completed the program's workshops from September 9 to October 28, 2026 (Wednesdays).
+  - September 9 – October 28, 2026
+  - Weekly workshops every Wednesday
+
+- **Globe Pitching 101**
+  - November 5, 2026
+  - Online workshop
+
+- **PyTorch Fundamentals Series**
+  - November 7, 2026
+  - Getting Started with PyTorch and The PyTorch Workflow
+
 - **DICT SPARK Training: Data Analytics and Visualization**
-  - Currently attending workshops from November 23 to December 7, 2026 (8:00 AM – 5:00 PM).
+  - November 23 – December 7, 2026
+  - Workshops, 8:00 AM – 5:00 PM
 
 ## Streak and Activity
 ---
@@ -94,9 +93,3 @@ Data Analysis, Machine Learning, and Data Visualization
 </div>
 
 </details>
-
-<div align="center">
-
-Computer Science, Batangas State University - TNEU Alangilan
-
-</div>
