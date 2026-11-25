@@ -49,12 +49,14 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 Data Analysis, Machine Learning, and Data Visualization
 
+
 ## Projects
 ---
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | **VogGuard PH** | Early-warning prototype for volcanic smog (vog) from Taal, built with Python | In progress |
+| **LAMBING** | Static website built with HTML, CSS, and JavaScript, featuring a chatbot powered by our backend | Completed |
 
 ## Achievements and Training
 ---
