@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Floyd Manalo
@@ -14,15 +15,13 @@ First-year Computer Science student at Batangas State University – TNEU, Alang
 
 </div>
 
----
-
 ## About Me
+---
 
 I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I'm interested in how satellite data and geospatial tools can help solve real problems in the Philippines, like tracking environmental hazards. I'm building my foundations in data analysis and machine learning, and I share what I learn along the way.
 
----
-
 ## Currently
+---
 
 | Focus | Details |
 |-------|---------|
@@ -30,9 +29,8 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 | Learning | Data analysis, machine learning, PyTorch |
 | Exploring | Geospatial technology and satellite data |
 
----
-
 ## Tech Stack
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)
@@ -42,26 +40,32 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Currently learning:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) Machine Learning, Data Analysis
+**Currently learning:**
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Data Analysis, Machine Learning, and Data Visualization
 
 ## Projects
+---
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | **VogGuard PH** | Early-warning prototype for volcanic smog (vog) from Taal, built with Python | In progress |
 
----
-
 ## Achievements and Training
-
-- Completed **PhilSA Space Business Innovation Camp 2026**
-- Attended **DICT SPARK Training: Data Analytics and Visualization**
-
 ---
+
+- **PhilSA Space Business Innovation Camp (SBIC) 2026**
+  - Completed the program's workshops from September 9 to October 28, 2026 (Wednesdays).
+- **DICT SPARK Training: Data Analytics and Visualization**
+  - Currently attending workshops from November 23 to December 7, 2026 (8:00 AM – 5:00 PM).
 
 ## Streak and Activity
+---
 
 <div align="center">
 
@@ -74,9 +78,8 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 </div>
 
----
-
 ## GitHub Stats
+---
 
 <details>
 <summary>Click to expand</summary>
@@ -90,11 +93,8 @@ I'm a first-year BSCS student at Batangas State University (TNEU - Alangilan). I
 
 </details>
 
----
-
 <div align="center">
 
 Computer Science, Batangas State University - TNEU Alangilan
 
 </div>
----
