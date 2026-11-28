@@ -78,13 +78,6 @@ I'm a Computer Science student who enjoys exploring opportunities to grow beyond
 </picture>
 
 </div>
-
-## GitHub Stats
----
-
-<details>
-<summary>Click to expand</summary>
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=FloydManalo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
